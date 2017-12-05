@@ -58,7 +58,7 @@ onto the testing field. Bruce saved the teen by pushing him into a nearby ditch,
 he recieved the full blast from the bomb. He somehow survived, but was extremely irradiated 
 from the bomb, which is what began his tranformation.
 
-At first, he would just tranform into the hulk at sunset, and turn back into himself at 
+At first, he would just tranform into the Hulk at sunset, and turn back into himself at 
 dawn. As time passed, his transformation became triggered by a large release of adrenaline
-rather than the time of day. When he turns into the hulk, he retains little to none of 
+rather than the time of day. When he turns into the Hulk, he retains little to none of 
 his human counterpart's memory and intelligence, which can make him a menace to anyone who angers him.
