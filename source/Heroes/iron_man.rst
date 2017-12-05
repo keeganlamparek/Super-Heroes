@@ -58,4 +58,3 @@ supported by Joanna, who he had shared his identity with. Joanna encouraged him 
 the armor to become a super hero, which spurned him to push to keep improving the suit.
 He later became one of the integral characters in the creation of the Avengers, both 
 as a sponsor and as a founding member. 
-
