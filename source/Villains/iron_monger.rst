@@ -10,7 +10,7 @@ Iron Monger
 | Arch-Nemisis| `Iron Man`_                     |
 +-------------+---------------------------------+
 
-.. _Iron Man: ../heroes/iron_man.html 
+.. _Iron Man: ../Heroes/iron_man.html 
 
 **Backstory:**
 

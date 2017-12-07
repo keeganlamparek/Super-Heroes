@@ -16,7 +16,7 @@ Iron Man
 |             | - Ghost                         |
 +-------------+---------------------------------+
 
-.. _Iron Monger: ../villains/iron_monger.html 
+.. _Iron Monger: ../Villains/iron_monger.html 
 
 **Backstory:**
 

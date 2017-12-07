@@ -12,7 +12,7 @@ Abomination
 | Arch-Nemisis| `Hulk`_                            |
 +-------------+------------------------------------+
 
-.. _Hulk: ../heroes/hulk.html 
+.. _Hulk: ../Heroes/hulk.html 
 
 **Backstory:**
 

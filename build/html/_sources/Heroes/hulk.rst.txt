@@ -19,7 +19,7 @@ Hulk
 |                  | - The Leader                    |
 +------------------+---------------------------------+
 
-.. _Abomination: ../villains/abomination.html 
+.. _Abomination: ../Villains/abomination.html 
 
 **Backstory:**
 
