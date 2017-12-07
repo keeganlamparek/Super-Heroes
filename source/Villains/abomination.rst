@@ -1,21 +1,16 @@
 Abomination
 ===========
 
-**Alter Ego:** Emil Blonsky
-
-**Abilities:**
-
-* Leap extreme distances in a single bound
-
-* Incredible physical strength
-
-* Able to regenerate after cellular damage
-
-* Resistant to extreme temperatures
-
-* Can hold breath for extended periods of time
-
-**Arch-Nemesis:** `Hulk`_
++-------------+------------------------------------+
+| Altar Ego   |	Emil Blonsky                       |
++-------------+------------------------------------+
+|             | - Jump extreme distances           |
+| Abilities   | - Incredible physical strength     |
+|             | - Regenerate cellular damage       |
+|             | - Resistant to extreme temperatures|
++-------------+------------------------------------+
+| Arch-Nemisis| `Hulk`_                            |
++-------------+------------------------------------+
 
 .. _Hulk: ../heroes/hulk.html 
 

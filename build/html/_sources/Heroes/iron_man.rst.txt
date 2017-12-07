@@ -1,29 +1,20 @@
 Iron Man
 ========
 
-**Alter Ego:** Anthony Edward "Tony" Stark
-
-**Abilities:**
-
-* Genius level intellect 
-
-* Ability to create a wide range of technology, especially armor and weaponry
-
-* Keen business mind
-
-**Popular Enemies:**
-
-* Mandarin
-
-* Justin Hammer
-
-* Anton Vanko
-
-* Titanium Man
-
-* Ghost
-
-**Arch-Nemesis:** `Iron Monger`_
++-------------+---------------------------------+
+| Altar Ego   |	Anthony Edward "Tony" Stark     |
++-------------+---------------------------------+
+|             | - Genius-level intellect        |
+| Abilities   | - Create advanced technology    |
++-------------+---------------------------------+
+| Arch-Nemisis| `Iron Monger`_                  |
++-------------+---------------------------------+
+|             | - Mandarin                      |
+| Popular     | - Justin Hammer                 |
+| Enemies     | - Anton Vanko                   |
+|             | - Titanium Man                  |
+|             | - Ghost                         |
++-------------+---------------------------------+
 
 .. _Iron Monger: ../villains/iron_monger.html 
 
