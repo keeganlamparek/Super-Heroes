@@ -1,35 +1,23 @@
 Hulk
 ====
 
-**Alter Ego:** Robert Bruce Banner
-
-**Abilities:**
-
-* As a man, he is brilliant beyond compare
-
-* As the Hulk, has superhuman strength that allows him to do many things
-
-  * Run at super speeds
-
-  * Jump extreme distances
-
-  * Create shock wave by slamming his hands together
-
-  * Extremely high tolerance to physical damage
-
-**Popular Enemies:**
-
-* Zzzax
-
-* Tyrannus
-
-* Maestro
-
-* Brian Banner
-
-* The Leader
-
-**Arch-Nemesis:** `Abomination`_
++------------------+---------------------------------+
+| Altar Ego        | Robert Bruce Banner             |
++------------------+---------------------------------+
+| Abilities        | - Run at super speeds           |
+| as Hulk          | - Jump extreme distances        |
+|                  | - Resistance to physical damage |
++------------------+---------------------------------+
+|Abilities as Bruce| - Brilliant beyond compare      |
++------------------+---------------------------------+
+| Arch-Nemisis     | `Abomination`_                  |
++------------------+---------------------------------+
+|                  | - Zzzax                         |
+| Popular          | - Tyrannus                      |
+| Enemies          | - Maestro                       |
+|                  | - Brian Banner                  |
+|                  | - The Leader                    |
++------------------+---------------------------------+
 
 .. _Abomination: ../villains/abomination.html 
 

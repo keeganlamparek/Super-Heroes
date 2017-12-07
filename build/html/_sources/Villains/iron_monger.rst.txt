@@ -1,15 +1,14 @@
 Iron Monger
 ===========
 
-**Alter Ego:** Obadiah Stane
-
-**Abilities:**
-
-* Incredibly high intelligence
-
-* Good hand-to-hand combat skills
-
-**Arch-Nemesis:** `Iron Man`_
++-------------+---------------------------------+
+| Altar Ego   |	Obadiah Stane                   |
++-------------+---------------------------------+
+|             | - Incredibly high intelligence  |
+| Abilities   | - Good hand-to-hand combat      |
++-------------+---------------------------------+
+| Arch-Nemisis| `Iron Man`_                     |
++-------------+---------------------------------+
 
 .. _Iron Man: ../heroes/iron_man.html 
 
