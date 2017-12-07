@@ -1,29 +1,27 @@
 Spider-Man
 ==========
-
-**Alter Ego:** Peter Benjamin Parker
-
-**Abilities:**
-
-* Genius-level intellect
-
-  * Proficient scientist and inventor
-* Superhuman strength, speed, durability, and agility
-* Ability to cling to almost any surface
-* Spider-sense
-* Possesses web-shooters containing synthesized silk material
-
-**Popular Villains:**
- 
-* Venom
-* Doctor Octopus
-* Rhino
-* Carnage
-* Sandman
-* Kingpin
-* Mysterio
-
-**Arch-Nemesis:** `Green Goblin`_
++--------------+---------------------------------------------+
+| Alter Ego    |  Peter Benjamin Parker                      |
++--------------+---------------------------------------------+
+| Abilities    | -Genius level intellect and proficient      |
+|              |  scientist/inventor                         |
+|              | -Superhuman strength, speed, durability,    |
+|              |  and agility                                |
+|              | -Ability to cling to almost any surface     |   
+|              | -Spider-sense                               | 
+|              | -Possesses web-shooters containing man-made |
+|              |  silk material                              |
++--------------+---------------------------------------------+
+| Arch-Nemesis | `Green Goblin`_                             |
++--------------+---------------------------------------------+
+| Popular      | -Venom                                      |
+| Villains     | -Doctor Octopus                             |
+|              | -Rhino                                      |
+|              | -Carnage                                    |
+|              | -Sandman                                    |
+|              | -Kingpin                                    |
+|              | -Mysterio                                   |
++--------------+---------------------------------------------+
 
 .. _Green Goblin: ../villains/green_goblin.html
 

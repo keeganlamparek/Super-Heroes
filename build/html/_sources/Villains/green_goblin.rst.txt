@@ -1,17 +1,20 @@
 Green Goblin
 ============
 
-**Alter Ego:** Norman Osborn
-
-**Abilities:**
-
-* Superhuman strength, stamina, durability, agility, and reflexes due to ingesting the Goblin Formula
-* Regenerative healing
-* Genius-level intellect
-* Skilled in martial arts
-* Utilizes goblin themed weapons and a Goblin Glider for transport
-
-**Arch-Nemesis:** `Spider-Man`_
++--------------+--------------------------------------------+
+| Alter Ego    |  Norman Osborn                             |
++--------------+--------------------------------------------+
+| Abilities    | -Superhuman strength, stamina, durability, |
+|              |    agility, and reflexes due to ingesting  |
+|              |    the Goblin Formula                      |
+|              | -Regenerative healing                      |
+|              | -Genius-level intellect                    |   
+|              | -Skilled in martial arts                   | 
+|              | -Utilizes goblin themed weapons and a      |
+|              |   Goblin Glider for transport              |
++--------------+--------------------------------------------+
+| Arch-Nemesis | `Spider-Man`_                              |
++--------------+--------------------------------------------+
 
 .. _Spider-Man: ../heroes/spider_man.html
 
