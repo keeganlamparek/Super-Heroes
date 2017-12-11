@@ -4,7 +4,7 @@ Thor
 | Alter Ego        | Donald Blake                           |
 +------------------+----------------------------------------+
 | Abilities        | - Expanded life-span due to the        |
-| as Thor          |   periodic consumption of              | 
+|                  |   periodic consumption of              | 
 |                  |   the Golden Apples of Idunn           |
 |                  | - Jump extreme distances               |
 |                  | - Incredible strength                  |
@@ -15,19 +15,18 @@ Thor
 |                  |   which increases his strength         |
 |                  |   and stamina by tenfold               |
 |                  | - High resistance to physical injuries |
-|                  | -Possesses the mythical                |
-|                  |  Hammer of Mjolnir                     |
-|                  |                                        |
+|                  | - Possesses the mythical               |
+|                  |   Hammer of Mjolnir                    |
 +------------------+----------------------------------------+
 | Arch-Nemisis     | `Loki`_                                |
 +------------------+----------------------------------------+
-| Popular Enemies  | * Kurse                                |
-|                  | * Ares                                 |
-|                  | * Hela                                 |
-|                  | * Malekith the Accursed                |
-|                  | * Ymir                                 |
-|                  | * Grog                                 |
-|                  | * Laufey                               |
+| Popular Enemies  | - Kurse                                |
+|                  | - Ares                                 |
+|                  | - Hela                                 |
+|                  | - Malekith the Accursed                |
+|                  | - Ymir                                 |
+|                  | - Grog                                 |
+|                  | - Laufey                               |
 +------------------+----------------------------------------+
 
 
