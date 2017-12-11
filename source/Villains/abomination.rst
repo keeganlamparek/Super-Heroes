@@ -1,8 +1,10 @@
 Abomination
 ===========
 
+.. image:: ../img/abomination.jpg
+
 +-------------+------------------------------------+
-| Altar Ego   |	Emil Blonsky                       |
+| Alter Ego   |	Emil Blonsky                       |
 +-------------+------------------------------------+
 |             | - Jump extreme distances           |
 | Abilities   | - Incredible physical strength     |
@@ -13,6 +15,7 @@ Abomination
 +-------------+------------------------------------+
 
 .. _Hulk: ../Heroes/hulk.html 
+
 
 **Backstory:**
 
