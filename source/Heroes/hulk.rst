@@ -1,8 +1,10 @@
 Hulk
 ====
 
+.. image:: ../img/hulk.jpg
+
 +------------------+---------------------------------+
-| Altar Ego        | Robert Bruce Banner             |
+| Alter Ego        | Robert Bruce Banner             |
 +------------------+---------------------------------+
 | Abilities        | - Run at super speeds           |
 | as Hulk          | - Jump extreme distances        |
@@ -19,7 +21,7 @@ Hulk
 |                  | - The Leader                    |
 +------------------+---------------------------------+
 
-.. _Abomination: ../villains/abomination.html 
+.. _Abomination: ../Villains/abomination.html 
 
 **Backstory:**
 

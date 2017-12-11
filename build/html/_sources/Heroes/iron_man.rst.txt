@@ -1,8 +1,10 @@
 Iron Man
 ========
 
+.. image:: ../img/iron_man.jpg
+
 +-------------+---------------------------------+
-| Altar Ego   |	Anthony Edward "Tony" Stark     |
+| Alter Ego   |	Anthony Edward "Tony" Stark     |
 +-------------+---------------------------------+
 |             | - Genius-level intellect        |
 | Abilities   | - Create advanced technology    |
@@ -16,7 +18,7 @@ Iron Man
 |             | - Ghost                         |
 +-------------+---------------------------------+
 
-.. _Iron Monger: ../villains/iron_monger.html 
+.. _Iron Monger: ../Villains/iron_monger.html 
 
 **Backstory:**
 
