@@ -4,7 +4,7 @@ Abomination
 .. image:: ../img/abomination.jpg
 
 +-------------+------------------------------------+
-| Alter Ego   |	Emil Blonsky                       |
+| Alter Ego   |	*Emil Blonsky*                     |
 +-------------+------------------------------------+
 |             | - Jump extreme distances           |
 | Abilities   | - Incredible physical strength     |

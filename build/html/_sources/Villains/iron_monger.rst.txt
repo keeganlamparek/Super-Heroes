@@ -4,7 +4,7 @@ Iron Monger
 .. image:: ../img/iron_monger.jpg
 
 +-------------+---------------------------------+
-| Alter Ego   |	Obadiah Stane                   |
+| Alter Ego   |	*Obadiah Stane*                 |
 +-------------+---------------------------------+
 |             | - Incredibly high intelligence  |
 | Abilities   | - Good hand-to-hand combat      |
