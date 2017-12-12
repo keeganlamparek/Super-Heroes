@@ -2,7 +2,7 @@ Wolverine
 =========
 .. image:: ../img/wolverine.jpg
 +--------------+---------------------------------------------+
-| Alter Ego    |  James "Logan" Howlett                      |
+| Alter Ego    |  James *"Logan"* Howlett                    |
 +--------------+---------------------------------------------+
 | Abilities    | - Superhuman senses, agility, reflexes, and |
 |              |   animal-like behavior                      |
