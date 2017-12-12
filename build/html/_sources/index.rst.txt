@@ -7,12 +7,12 @@ Heroes
 .. toctree::
    :maxdepth: 2
 
-   Heroes/hulk
-   Heroes/captain_america
-   Heroes/iron_man
-   Heroes/thor
-   Heroes/spider_man
-   Heroes/wolverine
+   heroes/hulk
+   heroes/captain_america
+   heroes/iron_man
+   heroes/thor
+   heroes/spider_man
+   heroes/wolverine
 
 Villains
 ~~~~~~~~
@@ -20,11 +20,11 @@ Villains
 .. toctree::
    :maxdepth: 2
 
-   Villains/abomination
-   Villains/red_skull
-   Villains/iron_monger
-   Villains/loki
-   Villains/green_goblin
-   Villains/sabertooth
+   villains/abomination
+   villains/red_skull
+   villains/iron_monger
+   villains/loki
+   villains/green_goblin
+   villains/sabertooth
 
 

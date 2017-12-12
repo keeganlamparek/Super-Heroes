@@ -1,5 +1,5 @@
 Captain America
-================
+===============
 .. image:: ../img/captain_america.jpg
 +-----------------+----------------------------------------+
 | Alter Ego       |   Steve Rogers                         |
