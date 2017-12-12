@@ -1,7 +1,7 @@
 Loki
 ====
 +------------------+----------------------------------------+
-| Known As         | Donald Blake                           |
+| Known As         | The God of Mischief                    |
 +------------------+----------------------------------------+
 | Abilities        | - Superhuman strength                  |
 |                  | - Powerful sorcerer                    |
@@ -11,10 +11,10 @@ Loki
 |                  | - Illusions                            |
 |                  | - Immune to physical damage            |
 +------------------+----------------------------------------+
-| Arch-Nemisis     | `Thor`_                     |
+| Arch-Nemisis     | `Thor`_                                |
 +------------------+----------------------------------------+
 
-.. _Captain America: ../heroes/thor.html
+.. _Thor: ../heroes/thor.html
 
 **Backstory:**
 
