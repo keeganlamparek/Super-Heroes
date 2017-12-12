@@ -2,7 +2,7 @@ Captain America
 ================
 .. image:: ../img/captain_america.jpg
 +-----------------+----------------------------------------+
-| Alter Ego       |   Steve Rogers                         |
+| Alter Ego       |  *Steve Rogers*                        |
 +-----------------+----------------------------------------+
 | Abilities       | - Super Solider Serum                  |
 |                 | - Enhanced strength, endurance, speed, |
@@ -22,8 +22,7 @@ Captain America
 .. _Red Skull: ../villains/red_skull.html
 
 
-**Back Story:**
-
+**Backstory:**
 Steve Rogers was a scrawny teenager during the Great Depression. After both of his parents died from natural causes, World War II began. After Steve Rogers saw the atrocities of the Nazis, he tried to enlist into the army. However, he didn’t pass the physical requirements to be in the army. The army noticed Steve Rogers bravery and potential and enlisted him in their experimental Super-Solider program. Steve took the serum and was exposed to Vita-Rays to help stabilize the serum inside of him. He grew out of his scrawny state and became a super-human. The serum maximized the efficiency of the human body and granted him strength and stamina.  
 
 Captain America's first task was to stop the Nazi leader, Red Skull, and to become a symbolic symbol for the country. After succeeding his symbolic task, Rogers went through a mind-conditioning program. He trained to start using a fake identity and a fake background, in the chance if he was captured.  During a mission in Africa, Rogers traveled to Wakanda and befriended the leader T'chaka. From there, he obtained an extremely rare and impossible to duplicate vibranium metal shield. 
